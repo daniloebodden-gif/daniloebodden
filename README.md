@@ -1,4 +1,4 @@
-# daniloebodden
+# daniloebodden-gif
 
 # Hello, my name is Danilo Bodden
 
